@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FB Testing suite" verbose="1" >
+    <test name="FB Smoke Testing suite" >
+
+           <classes>
+
+               <class name="com.FbUtils.FBLoginAndPostTest.FBLoginAndPostTest"/>
+
+   </classes>
+</test>
+
+</suite>

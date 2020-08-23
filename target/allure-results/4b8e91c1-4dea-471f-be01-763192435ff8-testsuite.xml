@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1572242491026" stop="1572242522063" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Zetwerk</name>
+    <title>Default Suite : Zetwerk</title>
+    <test-cases>
+        <test-case start="1572242505985" stop="1572242521838" status="passed">
+            <name>verifyLoginPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="16224@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

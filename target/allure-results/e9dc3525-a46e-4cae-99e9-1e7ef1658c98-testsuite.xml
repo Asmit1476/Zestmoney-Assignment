@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1591679088525" stop="1591679244389" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1591679110963" stop="1591679121922" status="passed">
+            <name>verifyNurtureLoginPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21820@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591679134810" stop="1591679162172" status="passed">
+            <name>verifyCreateStudyCoordinatorPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21820@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591679176325" stop="1591679191485" status="passed">
+            <name>verifyDietitianTab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21820@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591679203346" stop="1591679218393" status="passed">
+            <name>verifyStudyCoordinatorTab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21820@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591679229247" stop="1591679244308" status="passed">
+            <name>verifyAllProvidersTab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21820@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1591697575632" stop="1591697736593" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1591697598058" stop="1591697735838" status="passed">
+            <name>verifyFilterOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="20556@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

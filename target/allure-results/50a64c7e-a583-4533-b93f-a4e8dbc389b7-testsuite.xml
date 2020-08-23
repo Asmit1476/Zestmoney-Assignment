@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1594902271207" stop="1594902428770" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1594902285550" stop="1594902306278" status="passed">
+            <name>verifyInvitedPatientsCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="20748@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1594902306379" stop="1594902387665" status="passed">
+            <name>ActivePatientsDeactivateFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="20748@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1594902387668" stop="1594902428591" status="passed">
+            <name>verifyInactivePatientsCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="20748@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

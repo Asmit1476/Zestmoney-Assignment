@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1592895117476" stop="1592895217137" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1592895134911" stop="1592895155519" status="passed">
+            <name>verifyCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="25100@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592895155628" stop="1592895186342" status="passed">
+            <name>verifyFilter_Gender_Female</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="25100@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592895186345" stop="1592895216876" status="passed">
+            <name>verifyFilter_Gender_Male</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="25100@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

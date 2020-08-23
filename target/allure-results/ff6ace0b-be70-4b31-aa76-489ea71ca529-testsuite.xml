@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1593077333039" stop="1593077439913" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1593077353801" stop="1593077376152" status="passed">
+            <name>verifyInvitedPatientsCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="8672@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593077376260" stop="1593077417397" status="passed">
+            <name>verifyActivePatientsCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="8672@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593077417399" stop="1593077439815" status="passed">
+            <name>verifyInactivePatientsCancelAssigningDietitianToFirstRowPatient</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="8672@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

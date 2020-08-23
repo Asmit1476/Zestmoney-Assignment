@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1595397925654" stop="1595398031964" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1595397950115" stop="1595397980867" status="passed">
+            <name>verifyFoodCollectionFilter_FoodType_Food</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="4684@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1595397980961" stop="1595398011026" status="passed">
+            <name>verifyFoodCollectionFilter_FoodType_SuperFood</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="4684@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1595398011029" stop="1595398031757" status="passed">
+            <name>verifyFoodCollectionSearchResultsFound</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="4684@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

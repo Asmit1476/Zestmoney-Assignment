@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1594881486750" stop="1594881577158" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1594881502280" stop="1594881522919" status="passed">
+            <name>verifyInvitedPatientsCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="21212@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1594881523019" stop="1594881577088" status="passed">
+            <name>verifyInvitedPatientsDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="21212@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

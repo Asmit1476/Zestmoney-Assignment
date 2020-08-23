@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1593595650886" stop="1593595965822" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1593595669365" stop="1593595690078" status="passed">
+            <name>verifyInvitedPatientsCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593595690205" stop="1593595721087" status="passed">
+            <name>verifyActivePatientsFilter_Diagnosis_Brain</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593595721093" stop="1593595751660" status="passed">
+            <name>verifyActivePatientsFilter_Diagnosis_HeadAndNeck</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593595751662" stop="1593595782189" status="passed">
+            <name>verifyActivePatientsFilter_Diagnosis_ChestLung</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593595782191" stop="1593595812690" status="passed">
+            <name>verifyActivePatientsFilter_Diagnosis_Breast</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593595812692" stop="1593595843178" status="passed">
+            <name>verifyActivePatientsFilter_Diagnosis_Prostate</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593595843180" stop="1593595873682" status="passed">
+            <name>verifyActivePatientsFilter_Diagnosis_Gastrointestinal</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593595873684" stop="1593595904237" status="passed">
+            <name>verifyActivePatientsFilter_Diagnosis_Gynecological</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593595904239" stop="1593595934754" status="passed">
+            <name>verifyActivePatientsFilter_Gender_Female</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593595934755" stop="1593595965262" status="passed">
+            <name>verifyActivePatientsFilter_Gender_Male</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18468@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

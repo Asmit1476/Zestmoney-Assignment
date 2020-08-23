@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1593070437083" stop="1593070574840" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1593070447506" stop="1593070468253" status="passed">
+            <name>verifyInvitedPatientsCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18180@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593070468356" stop="1593070490850" status="passed">
+            <name>verifyInactivePatientsCancelAssigningDoctorToFirstRowPatient</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18180@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593070490853" stop="1593070513142" status="passed">
+            <name>verifyInactivePatientsCancelAssigningDietitianToFirstRowPatient</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18180@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593070513144" stop="1593070543969" status="passed">
+            <name>verifyActivePatientsCancelAssigningDoctorToFirstRowPatient</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18180@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593070543971" stop="1593070574732" status="passed">
+            <name>verifyActivePatientsCancelAssigningDietitianToFirstRowPatient</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="18180@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

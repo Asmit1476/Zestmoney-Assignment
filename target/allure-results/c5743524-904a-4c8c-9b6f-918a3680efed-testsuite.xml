@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1540460771089" stop="1540460814305" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Zetwerk</name>
+    <title>Default Suite : Zetwerk</title>
+    <test-cases>
+        <test-case start="1540460778722" stop="1540460813898" status="passed">
+            <name>verify_Add_Supplier_Button[hunbun1469@gmail.com,377b853b]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-6P0RF6P"/>
+                <label name="thread" value="16848@DESKTOP-6P0RF6P.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

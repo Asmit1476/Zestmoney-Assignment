@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1591872525566" stop="1591872688161" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1591872558636" stop="1591872580525" status="passed">
+            <name>verifyAllProvidersRegisteredDietitianFilterOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="8896@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591872580635" stop="1591872602073" status="passed">
+            <name>verifyAllProvidersDietitianLicensedNutritionistFilterOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="8896@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591872602075" stop="1591872623502" status="passed">
+            <name>verifyAllProvidersPediatricOncologistFilterOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="8896@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591872623504" stop="1591872644955" status="passed">
+            <name>verifyAllProvidersHematologistOncologistFilterOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="8896@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591872644957" stop="1591872666375" status="passed">
+            <name>verifyAllProvidersMedicalOncologistFilterOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="8896@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591872666377" stop="1591872688085" status="passed">
+            <name>verifyAllProvidersRadiationOncologistFilterOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="8896@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1592831010788" stop="1592831230179" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1592831024969" stop="1592831045975" status="passed">
+            <name>verifyCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="13576@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592831046077" stop="1592831076726" status="passed">
+            <name>verifyFilter_Diagnosis_Brain</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="13576@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592831076729" stop="1592831107573" status="passed">
+            <name>verifyFilter_Diagnosis_ChestLung</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="13576@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592831107576" stop="1592831138203" status="passed">
+            <name>verifyFilter_Diagnosis_Breast</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="13576@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592831138206" stop="1592831168725" status="passed">
+            <name>verifyFilter_Diagnosis_Prostate</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="13576@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592831168727" stop="1592831199198" status="passed">
+            <name>verifyFilter_Diagnosis_Gastrointestinal</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="13576@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592831199200" stop="1592831229988" status="passed">
+            <name>verifyFilter_Diagnosis_Gynecological</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="13576@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

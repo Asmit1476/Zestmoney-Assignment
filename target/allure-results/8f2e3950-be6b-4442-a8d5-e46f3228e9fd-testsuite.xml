@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1594891485037" stop="1594891611128" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1594891507469" stop="1594891528626" status="passed">
+            <name>verifyInvitedPatientsCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="9912@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1594891528754" stop="1594891554194" status="passed">
+            <name>verifySelectAndUnselectAllCheckboxActivePatients</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="9912@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1594891554197" stop="1594891586485" status="passed">
+            <name>verifySelectAndUnselectAllCheckboxInactivePatients</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="9912@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1594891586488" stop="1594891610320" status="passed">
+            <name>verifySelectAndUnselectAllCheckboxInvitedPatients</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CC-Asmit"/>
+                <label name="thread" value="9912@CC-Asmit.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

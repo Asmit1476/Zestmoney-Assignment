@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1593605308955" stop="1593605554433" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1593605320410" stop="1593605341336" status="passed">
+            <name>verifyInvitedPatientsCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="20296@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593605341448" stop="1593605387148" status="passed">
+            <name>verifyInactivePatientsFilter_Treatment_Chemotherapy</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="20296@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593605387155" stop="1593605432696" status="passed">
+            <name>verifyInactivePatientsFilter_Treatment_TargetedTherapies</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="20296@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593605432699" stop="1593605463200" status="passed">
+            <name>verifyInactivePatientsFilter_Treatment_RadiationTherapy</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="20296@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593605463202" stop="1593605508717" status="passed">
+            <name>verifyInactivePatientsFilter_Treatment_HormonalTherapy</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="20296@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1593605508720" stop="1593605554332" status="passed">
+            <name>verifyInactivePatientsFilter_Treatment_Surgery</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="20296@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

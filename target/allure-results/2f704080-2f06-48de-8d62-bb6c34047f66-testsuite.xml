@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1591777417336" stop="1591777719674" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1591777449241" stop="1591777471157" status="passed">
+            <name>verifyAllProvidersCancelDeleteOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777471299" stop="1591777487524" status="passed">
+            <name>verifyDietitianTab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777487526" stop="1591777509093" status="passed">
+            <name>verifyAllProvidersDeleteOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777509096" stop="1591777511272" status="passed">
+            <name>verifyStudyCoordinatorTab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777511274" stop="1591777513423" status="passed">
+            <name>verifyAllProvidersTab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777513425" stop="1591777534990" status="passed">
+            <name>verifyDoctorsCancelDeleteOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777534992" stop="1591777556500" status="passed">
+            <name>verifyAllProvidersFilterOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777556502" stop="1591777597030" status="passed">
+            <name>verifyAllProvidersSearchOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777597032" stop="1591777619010" status="passed">
+            <name>verifyDoctorsDeleteOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777619012" stop="1591777641274" status="passed">
+            <name>verifyDietitianCancelDeleteOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777641276" stop="1591777676637" status="passed">
+            <name>verifyDietitianDeleteOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777676639" stop="1591777698207" status="passed">
+            <name>verifyStudyCoordinatorCancelDeleteOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1591777698209" stop="1591777719600" status="passed">
+            <name>verifyStudyCoordinatorDeleteOperation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="10304@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

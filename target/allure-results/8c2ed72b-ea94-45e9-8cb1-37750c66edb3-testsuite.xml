@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1541996491166" stop="1541996529375" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Zetwerk</name>
+    <title>Default Suite : Zetwerk</title>
+    <test-cases>
+        <test-case start="1541996500986" stop="1541996504869" status="passed">
+            <name>verify[buye,buyer3@123]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-6P0RF6P"/>
+                <label name="thread" value="14452@DESKTOP-6P0RF6P.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1541996512944" stop="1541996516721" status="passed">
+            <name>verify[ ,buyer3@123]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-6P0RF6P"/>
+                <label name="thread" value="14452@DESKTOP-6P0RF6P.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1541996525154" stop="1541996529192" status="passed">
+            <name>verify[buyer3@gmail.com,buyer3123]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-6P0RF6P"/>
+                <label name="thread" value="14452@DESKTOP-6P0RF6P.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

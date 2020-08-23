@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1592893948753" stop="1592894153950" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Smoke Testing suite : Nurture Smoke Testing suite</name>
+    <title>Smoke Testing suite : Nurture Smoke Testing suite</title>
+    <test-cases>
+        <test-case start="1592893962924" stop="1592893983690" status="passed">
+            <name>verifyCancelDeleteFirstRowPatientRecord</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21416@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592893983804" stop="1592894014622" status="passed">
+            <name>verifyFilter_Chemotherapy</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21416@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592894014625" stop="1592894060228" status="passed">
+            <name>verifyFilter_Treatment_HormonalTherapy</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21416@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592894060230" stop="1592894090779" status="passed">
+            <name>verifyFilter_Treatment_TargetedTherapies</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21416@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592894090781" stop="1592894121318" status="passed">
+            <name>verifyFilter_Treatment_RadiationTherapy</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21416@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1592894121320" stop="1592894151811" status="passed">
+            <name>verifyFilter_Treatment_Surgery</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft-pc"/>
+                <label name="thread" value="21416@codecraft-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
